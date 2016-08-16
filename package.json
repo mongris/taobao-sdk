@@ -1,0 +1,12 @@
+{
+  "name": "taobao-sdk",
+  "version": "0.0.1",
+  "description": "Taobao Open API Client.",
+  "main": "client.js",
+  "dependencies": {
+    "urllib": ">=0.5.2"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
